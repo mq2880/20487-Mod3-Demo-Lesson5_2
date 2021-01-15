@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="D:\20487C\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\AutoRest.Sdk.csproj" />
+  </ItemGroup>
+
+</Project>
